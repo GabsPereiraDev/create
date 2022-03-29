@@ -1,0 +1,12 @@
+{
+  "name": "create",
+  "displayName": "create",
+  "expo": {
+    "name": "create",
+    "slug": "create",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
